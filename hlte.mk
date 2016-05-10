@@ -127,7 +127,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/libnfc-brcm.conf:system/etc/libnfc-brcm.conf
 
 # Kryten2k35 OTAUpdates
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     OTAUpdates
 
 # Radio
