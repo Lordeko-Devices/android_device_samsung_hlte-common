@@ -314,7 +314,7 @@
 
     <!-- Doze mode -->
     <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
-    <integer name="config_screenBrightnessDoze">30</integer>
+    <integer name="config_screenBrightnessDoze">20</integer>
     <bool name="config_dozeAfterScreenOff">true</bool>
 
     <!-- enable doze powersaving mode -->
